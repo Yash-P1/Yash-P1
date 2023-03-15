@@ -4,14 +4,14 @@
 <p align="center"><img src="https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" width="500" /></p>
 </br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Yash-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yashpatel10/)](https://www.linkedin.com/in/moshfiqrony/)
-[![Email Badge](https://img.shields.io/badge/-yashpatell@outlook.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:yashpatell@outlook.com)](mailto:yashpatell@outlook.com)
-[![Twitter Badge](https://img.shields.io/badge/-Yash-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/notyashp/)](https://twitter.com/notyashp/)
-[![Reddit Badge](https://img.shields.io/badge/-Yash-red?style=plastic&logo=Reddit&logoColor=white&link=https://www.reddit.com/user/Yash_7_)](https://www.reddit.com/user/Yash_7_)
-[![Website Badge](https://img.shields.io/website-up-down-g-r/http/monip.org.svg)](https://yashpatel.super.site/)
-[![Instagram Badge](https://img.shields.io/badge/-Yash-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/notyashp/)](https://instagram.com/notyashp)
-
-</br>
+<p align="center">
+<a href="https://www.linkedin.com/in/yashpatel10/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<a href="mailto:yashpatell@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook Badge"></a>
+<a href="https://yashpatel.super.site/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"></a>
+<a href="https://instagram.com/notyashp"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"></a>
+<a href="https://www.reddit.com/user/Yash_7_"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit Badge"></a>
+<a href="https://twitter.com/notyashp/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
+</p>
 
 ```
 class YashP:
@@ -31,19 +31,13 @@ class YashP:
             'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'Unity', 'Android Studio'],
             'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'GNU/Linux']
         }
-        self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
-
-    def __str__(self):
-        return self.name
-
-if __name__ == '__main__':
-    me = YashP()
 ```
+
 </br>
 
 **About Me**: 
 
-- 🔭 I’m a recent graduate in software development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Canada. [![Website Badge](https://img.shields.io/badge/-Website-black?style=flat)](https://www.linkedin.com/in/kakbar) 
+- 🔭 I’m a recent graduate in software development <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> based in Canada.
 - 👨‍💻 I am passionate self-taught FullStack developer and open-source enthusiast.
 - 🌱 Currently exploring Blockchain, DApps, and Web3.
 - ⚡ When I'm not working, I cook a̶w̶e̶s̶o̶m̶e̶ food, travel and play games.
@@ -57,7 +51,8 @@ if __name__ == '__main__':
 ### 🛠 Languages and Tools : 
 </br>
 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+![Java](https://img.shields.io/badge/-Java-black?style=plastic&logo=java)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
@@ -68,13 +63,16 @@ if __name__ == '__main__':
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=plastic&logo=postgresql)
   ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=plastic&logo=amazon-aws)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab)
-![Php](https://img.shields.io/badge/-php-394989?style=plastic&logo=php) ![Java](https://img.shields.io/badge/-java-3f4441?style=plastic&logo=java) ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins) ![Kotlin](https://img.shields.io/badge/-kotlin-006a71?style=plastic&logo=kotlin) ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
+  ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=plastic&logo=gitlab) 
+![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=plastic&logo=Jenkins) ![Kotlin](https://img.shields.io/badge/-kotlin-006a71?style=plastic&logo=kotlin) ![C++](https://img.shields.io/badge/-C++-00599C?style=plastic&logo=c)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=plastic&logo=bootstrap)
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=plastic&logo=mongodb)
+![Azure](https://img.shields.io/badge/-Azure-blue?style=plastic&logo=MicrosoftAzure)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=plastic&logo=Docker)
+
 </br>
 
 ---
